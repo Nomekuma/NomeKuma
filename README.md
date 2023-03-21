@@ -14,7 +14,7 @@
 <a href="https://twitter.com/tushil13">
   <img align="left" alt="Tushil | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="">
+<a href="https://www.linkedin.com/in/tushil-kumar-gunness-5b734826b/">
   <img align="left" alt="Tushil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </br>
