@@ -1,5 +1,7 @@
-### Hi there 👋
--🌱 I’m currently learning ...(Rookie) <img align="center" src="https://komarev.com/ghpvc/?username=Tushil-G&style=flat-square&color=green" alt=""/>
+### Hi there 👋 
+
+
+-🌱 I’m currently learning ...(Rookie)<img width=16px height=15px src="https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-large/1f1f2-1f1fa@2x.png"/> <img align="center" src="https://komarev.com/ghpvc/?username=Tushil-G&style=flat-square&color=green" alt=""/>
 
 **Socials:**
 <br>
