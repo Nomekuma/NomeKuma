@@ -1,8 +1,8 @@
 ### Hi there 👋
--🌱 I’m currently learning ...(Rookie)
-### :hammer_and_wrench: Languages and Tools:
-
-<a href="https://www.instagram.com/tushil07/">
+-🌱 I’m currently learning ...(Rookie) <img align="center" src="https://komarev.com/ghpvc/?username=Tushil-G&style=flat-square&color=green" alt=""/>
+# Socials:
+<br>
+ <a href="https://www.instagram.com/tushil07/">
   <img align="left" alt="Tushil's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discordapp.com/users/569217296799629334">
@@ -14,31 +14,23 @@
 <a href="">
   <img align="left" alt="Tushil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=Tushil-G:Tushil_G)
-
-<br />
-
-<div align="center">
+</br>
+ :hammer_and_wrench: Languages and Tools:
+<div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40">&nbsp;
   <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" title="PostgreSQL" alt="PostgreSQL" width="" height="60">&nbsp;
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40">&nbsp;
-</div>
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40">&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="CSS" alt="CSS" width="40" height="40">&nbsp;
 </div>
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 
-</div>
-
----
+***
 
 <div align="center">
 
