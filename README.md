@@ -53,7 +53,7 @@
 
 [![Tushil-G's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushil-G&show_icons=true&theme=github_dark&include_all_commits=false&count_private=false&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushil-G&layout=compact&theme=github_dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tushil-G&" alt="Tushil-G" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tushil-G&theme=dark" alt="Tushil-G"/></p>
 
 </div>
 
