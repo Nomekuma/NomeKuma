@@ -1,6 +1,7 @@
 ### Hi there 👋
 -🌱 I’m currently learning ...(Rookie) <img align="center" src="https://komarev.com/ghpvc/?username=Tushil-G&style=flat-square&color=green" alt=""/>
-# Socials:
+
+**Socials:**
 <br>
  <a href="https://www.instagram.com/tushil07/">
   <img align="left" alt="Tushil's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
