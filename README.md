@@ -2,7 +2,7 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=Tushil-G&style=flat-square&color=green" alt=""/>
 <img align="right" height=350px src="https://tse4.mm.bing.net/th?id=OIP.uHfuI7gCrlHOaRfEgVUydQHaHa&pid=Api&P=0"/>
 
-- 🌱 I’m currently learning ...(Rookie)<img width=16px height=15px src="https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-large/1f1f2-1f1fa@2x.png"/> 
+- 🌱 I’m currently learning ...Rookie<img width=16px height=15px src="https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-large/1f1f2-1f1fa@2x.png"/> 
 - 🔭 I’m currently working on **A project**
 
 - 👨‍💻 I'm currently studying at **Developer institute**
