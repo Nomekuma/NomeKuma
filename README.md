@@ -27,7 +27,8 @@
 </div>
 
 ---
-- 📫 How to reach me: **t.gunness35@gmail.com** <img width=16px height=15px src="https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-large/1f1f2-1f1fa@2x.png"/> 
+- 📫 How to reach me: **t.gunness35@gmail.com** <img width=16px height=15px src="https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-large/1f1f2-1f1fa@2x.png"/>
+- 🌐 My Portfolio https://nomekuma.github.io/portfolio/
 ***
 
 <div align="center">
