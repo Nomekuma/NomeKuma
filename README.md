@@ -32,11 +32,8 @@
 ***
 
 <div align="center">
- 
-[![Tushil-G's GitHub stats](https://github-readme-stats.vercel.app/api?username=NomeKuma&show_icons=true&theme=github_dark&include_all_commits=false&count_private=false&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NomeKuma&layout=compact&theme=github_dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NomeKuma&theme=dark" alt="Tushil-G"/></p>
+[![Check out Nomekuma's profile on stardev.io](https://stardev.io/developers/Nomekuma/badge/languages/locality.svg)](https://stardev.io/developers/Nomekuma)
 
 </div>
 
